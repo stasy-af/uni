@@ -1,4 +1,4 @@
 a = int(input())
 b = int(input())
-summa = a + b
+summa = a - b
 print(summa)
